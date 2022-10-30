@@ -1,11 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
-import { Container, Title } from './styled';
+import { Button } from 'react-native';
+import { Container, PageHeader, Title } from './shared/styled';
 
 export default function App() {
   return (
     <Container>
       <StatusBar style="auto" />
-      <Title>Hei</Title>
+      <PageHeader>
+        <Title>2anki.</Title>
+      </PageHeader>
     </Container>
   );
 }
