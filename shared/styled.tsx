@@ -13,6 +13,7 @@ export const Title = styled.Text`
   font-size: 2rem;
   font-weight: bold;
   margin: 0.3rem 1.5rem;
+  user-select: none;
 `;
 
 export const PageHeader = styled.View`
