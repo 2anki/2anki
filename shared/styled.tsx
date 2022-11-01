@@ -12,7 +12,7 @@ export const Title = styled.Text`
   text-align: center;
   font-size: 2rem;
   font-weight: bold;
-  margin: 0.3rem 1.5rem;
+  margin: 1rem;
   user-select: none;
 `;
 
