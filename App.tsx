@@ -7,7 +7,7 @@ export default function App() {
     <Container>
       <StatusBar style="auto" />
       <PageHeader>
-        <Title>2anki.</Title>
+        <Title>2Anki.</Title>
       </PageHeader>
     </Container>
   );
